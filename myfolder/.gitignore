@@ -1,0 +1,8 @@
+data
+models/AttentionXML-EUR-Lex
+results_explanations/ig_explanations.pkl
+results_explanations/lime_explanations.pkl
+results_explanations/mlb.pkl
+results_explanations/ovr_logreg_model.pkl
+results_explanations/tfidf_vectorizer.pkl
+models/robust_fast_attention_xml.pth
