@@ -1,0 +1,11 @@
+click
+ruamel.yaml
+numpy
+scipy
+scikit-learn
+gensim
+torch
+nltk
+tqdm
+joblib
+logzero
